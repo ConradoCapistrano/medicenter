@@ -1,6 +1,5 @@
 # Medicenter Project
 
-# [PORTUGUESE]
 ## Sobre o projeto
 
 Medicenter Project foi meu primeiro projeto na area de programação construido durante o curso Full stack B7Web. 
@@ -14,6 +13,8 @@ Algumas funções não funcionam pois dependem do Javascript, que nao foi utiliz
 ![NPM](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![NPM](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## Links :
+
 ```bash
 # clonar repositório
 git clone https://github.com/ConradoCapistrano/medicenter
@@ -22,7 +23,7 @@ git clone https://github.com/ConradoCapistrano/medicenter
 ### Acessar o Site do Projeto :
 https://conradocapistrano.github.io/medicenter/
 
-# Autor
+# Creator / Autor
 
 Conrado Capistrano
 
